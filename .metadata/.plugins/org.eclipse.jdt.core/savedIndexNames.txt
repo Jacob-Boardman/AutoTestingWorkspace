@@ -18,10 +18,8 @@ INDEX VERSION 1.130+C:\Users\Admin\eclipse-workspace-AutoTesting\.metadata\.plug
 724568537.index
 655673207.index
 3232179652.index
-2910042775.index
 3614430242.index
 2960643792.index
-3326820368.index
 4073710751.index
 1110029571.index
 2591429691.index
@@ -30,7 +28,6 @@ INDEX VERSION 1.130+C:\Users\Admin\eclipse-workspace-AutoTesting\.metadata\.plug
 3005752923.index
 102631241.index
 4033228745.index
-399730230.index
 1033419600.index
 67467958.index
 1091275847.index
