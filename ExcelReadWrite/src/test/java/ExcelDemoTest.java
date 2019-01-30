@@ -54,7 +54,7 @@ public class ExcelDemoTest {
 			}
 			System.out.println(entries);
 			edlp.createAndLogin(entries.get(0), entries.get(1));
-			WebElement login = driver.findElement(By.xpath("/html/body/div/center/table/tbody/tr[2]/td/div/center/table/tbody/tr/td[2]/p/small/a[4]"));
+			WebElement login = driver.findElement(By.xpath(Constants.login));
 			login.click();
 			edlp.createAndLogin(entries.get(0), entries.get(1));
 			
@@ -64,7 +64,7 @@ public class ExcelDemoTest {
 			if (cellActual == null) {
 				cellActual = row.createCell(3);
 			}
-			WebElement text = driver.findElement(By.xpath("/html/body/table/tbody/tr/td[1]/big/blockquote/blockquote/font/center/b"));
+			WebElement text = driver.findElement(By.xpath(Constants.text));
 			cellActual.setCellValue(text.getText());
 			
 			if(cellResult == null) {
@@ -79,7 +79,7 @@ public class ExcelDemoTest {
 			}
 			
 			
-			WebElement adduser = driver.findElement(By.xpath("/html/body/div/center/table/tbody/tr[2]/td/div/center/table/tbody/tr/td[2]/p/small/a[3]"));
+			WebElement adduser = driver.findElement(By.xpath(Constants.adduser));
 			adduser.click();
 
 		}
