@@ -1,3 +1,5 @@
+import static org.junit.Assert.*;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -19,6 +21,16 @@ public class AutomaticTesting {
 	@After
 	public void teardown() {
 		driver.quit();
+	}
+	
+	@Test
+	public void test1() {
+		driver.manage().window().maximize();
+		driver.get("http://automationpractice.com/index.php");
+		AutomaticLandingPage alp = PageFactory.initElements(driver, AutomaticLandingPage.class);
+		alp.searchDress("dress");
+		WebElement dress = driver.findElement(By.xpath("//*[@id=\"center_column\"]/ul/li[2]/div/div[2]/h5/a"));
+		assertEquals("Not dress found","Printed Dress",dress.getText());
 	}
 	
 

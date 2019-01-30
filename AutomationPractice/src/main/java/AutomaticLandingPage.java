@@ -6,7 +6,7 @@ public class AutomaticLandingPage {
 	@FindBy(id = "search_query_top")
 	private WebElement search;
 	
-	@FindBy(name = "searchButton")
+	@FindBy(name = "submit_search")
 	private WebElement button;
 	
 	public void searchDress(String dress) {
