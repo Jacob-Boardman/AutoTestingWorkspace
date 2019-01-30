@@ -1,0 +1,60 @@
+2019-01-30 12:22:14,375 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-01-30 12:23:17,346 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:DemoSite:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace\DemoSite\pom.xml.
+2019-01-30 12:23:19,290 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSite/src/main/java
+2019-01-30 12:23:19,290 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSite/src/main/resources
+2019-01-30 12:23:19,291 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSite/src/test/java
+2019-01-30 12:23:19,291 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSite/src/test/resources
+2019-01-30 12:23:19,402 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2019-01-30 12:23:20,486 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:20,494 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:23:20,496 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:20,504 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:23:26,212 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:SeleniumDemoDeleteMe:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace\SeleniumDemoDeleteMe\pom.xml.
+2019-01-30 12:23:26,417 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumDemoDeleteMe/src/main/java
+2019-01-30 12:23:26,417 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumDemoDeleteMe/src/main/resources
+2019-01-30 12:23:26,418 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumDemoDeleteMe/src/test/java
+2019-01-30 12:23:26,418 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumDemoDeleteMe/src/test/resources
+2019-01-30 12:23:26,454 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-01-30 12:23:26,785 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:26,792 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:23:26,793 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:26,799 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:23:40,339 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:AutomationPractice:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace\AutomationPractice\pom.xml.
+2019-01-30 12:23:40,609 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationPractice/src/main/java
+2019-01-30 12:23:40,609 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AutomationPractice/src/main/resources
+2019-01-30 12:23:40,610 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationPractice/src/test/java
+2019-01-30 12:23:40,610 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AutomationPractice/src/test/resources
+2019-01-30 12:23:40,640 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-01-30 12:23:40,879 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:40,884 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:23:40,885 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:23:40,890 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:26:01,019 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-30 12:27:38,355 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:AutomationPractice:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace-AutoTesting\AutomationPractice\pom.xml.
+2019-01-30 12:27:38,512 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:DemoSite:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace-AutoTesting\DemoSite\pom.xml.
+2019-01-30 12:27:38,572 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qa:SeleniumDemoDeleteMe:0.0.1-SNAPSHOT @ C:\Users\Admin\eclipse-workspace-AutoTesting\SeleniumDemoDeleteMe\pom.xml.
+2019-01-30 12:27:39,101 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumDemoDeleteMe/src/main/java
+2019-01-30 12:27:39,101 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumDemoDeleteMe/src/main/resources
+2019-01-30 12:27:39,102 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumDemoDeleteMe/src/test/java
+2019-01-30 12:27:39,102 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumDemoDeleteMe/src/test/resources
+2019-01-30 12:27:39,147 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSite/src/main/java
+2019-01-30 12:27:39,148 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSite/src/main/resources
+2019-01-30 12:27:39,148 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoSite/src/test/java
+2019-01-30 12:27:39,148 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoSite/src/test/resources
+2019-01-30 12:27:39,184 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationPractice/src/main/java
+2019-01-30 12:27:39,184 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AutomationPractice/src/main/resources
+2019-01-30 12:27:39,184 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationPractice/src/test/java
+2019-01-30 12:27:39,184 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AutomationPractice/src/test/resources
+2019-01-30 12:27:39,228 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 1 sec
+2019-01-30 12:27:39,793 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:39,802 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:27:39,804 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:39,809 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:27:39,898 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:39,907 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:27:39,908 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:39,918 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:27:40,087 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:40,093 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-30 12:27:40,094 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-30 12:27:40,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
