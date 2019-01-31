@@ -7,6 +7,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CucumberTeaTesting"/>
+			<item value="ParameterizedClassJunit"/>
 			<item value="ExcelReadWrite"/>
 		</list>
 		<list key="projectNameTemplate">
