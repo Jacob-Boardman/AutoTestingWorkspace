@@ -8,10 +8,10 @@ import org.openqa.selenium.support.FindBys;
 
 public class MenuPage {
 
-	@FindBys(@FindBy(className = "wsb-element-image"))
+	@FindBys(@FindBy(tagName = "strong"))
 	List<WebElement> list;
-	public boolean isListPresent() {
 
+	public boolean isListPresent() {
 		if (list.size() > 2) {
 			return true;
 		} else {
